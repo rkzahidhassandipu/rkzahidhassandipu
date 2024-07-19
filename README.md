@@ -22,8 +22,7 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 - 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **React, Redux**
-  
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
