@@ -1,8 +1,11 @@
-<h1 align="center">Hello 👋, I'm RK Zahid Hassan Dipu</h1>
+<h3 align="center">Hello 👋, I'm RK Zahid Hassan Dipu</h3>
 
-#### I am a Web Developer
 ![I am Web Developer](https://media.licdn.com/dms/image/D4D03AQHX7lIhBaVuYQ/profile-displayphoto-shrink_400_400/0/1718624638559?e=2147483647&v=beta&t=jAF0NV5JueDbxEn-3t6duYRN67un5ypL-3yGeCJZmZ8)
 
+### I am a Web Developer
+
+
+### About-me
 I’m a Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. Over the past years, I pride myself on doing quality work and maintaining excellent communication. I enjoy working with include ReactJS and JavaScript.
 
 Skills: HTML 
@@ -18,10 +21,8 @@ Skills: HTML
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **Reac, Redux**
-
-- 📫 How to reach me **rkrazzkhan01731@gmail.com**
-
+- 💬 Ask me about **React, Redux**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rkzahidhassandipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkzahidhassandipu" height="30" width="40" /></a>
