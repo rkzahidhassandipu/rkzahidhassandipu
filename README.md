@@ -1,6 +1,19 @@
 <h3 align="center">Hello 👋, I'm RK Zahid Hassan Dipu</h3>
 
-![I am Web Developer](https://media.licdn.com/dms/image/D4D03AQHX7lIhBaVuYQ/profile-displayphoto-shrink_400_400/0/1718624638559?e=2147483647&v=beta&t=jAF0NV5JueDbxEn-3t6duYRN67un5ypL-3yGeCJZmZ8)
+![I am Web Developer](### Hi there 👋, banfla
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://photos.app.goo.gl/nFqZJrbGZC7p6Mhm9)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+)
 
 ### I am a Web Developer & love learning programming 
 <p align="left">
