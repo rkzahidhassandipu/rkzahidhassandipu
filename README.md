@@ -13,12 +13,22 @@
 <a href="https://www.youtube.com/c/web-coding-tutorial-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="web-coding-tutorial-" height="30" width="40" /></a>
 </p>
 
-### About-me
-I am Raihan Uddin a proficient MERN Stack Developer, I specialize in building robust, scalable web applications using MongoDB, Express.js, React, and Node.js. With a strong front-end and back-end development foundation, I deliver seamless, responsive user experiences and efficient server-side solutions.
+## 👋 About Me
 
-I excel in creating dynamic web applications from the ground up, optimizing performance, and integrating modern design principles. My expertise extends to RESTful APIs, database architecture, and deployment strategies, ensuring end-to-end functionality and user satisfaction.
+Hi, I'm **Raihan Uddin** — a passionate and proficient **MERN Stack Developer**.
 
-Passionate about staying ahead of the curve, I continually enhance my skills through learning and applying the latest technologies and best practices in web development.
+I specialize in building robust and scalable web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**. With a strong foundation in both front-end and back-end development, I focus on delivering seamless, responsive user experiences alongside efficient server-side logic.
+
+🔧 My core skills include:
+- Full-stack JavaScript development (MERN)
+- RESTful API design and integration
+- Database architecture and optimization
+- Responsive UI development
+- Deployment & performance tuning
+
+I'm continuously learning and adopting the latest technologies to stay ahead in the ever-evolving world of web development. Whether building apps from scratch or optimizing existing projects, I’m driven by clean code, scalability, and user satisfaction.
+
+Let's connect and build something amazing!
 
 
 <h2 align="left">Tech Stack & Tools:</h2>
