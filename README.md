@@ -31,16 +31,94 @@ I'm continuously learning and adopting the latest technologies to stay ahead in 
 Let's connect and build something amazing!
 
 
-<h2 align="left">Tech Stack & Tools:</h2>
+<h2 align="left">🛠️ Skills</h2>
 
-<h3>Frontend:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🧱 Core Technologies
+<p><img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+
+<img src="https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS3 Badge" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge" />
+</p>
+
+## 🔧 Development & Build Tools
+<p>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+<img src="https://img.shields.io/badge/VS%20Code-%232F61B4?style=for-the-badge&logoColor=white" alt="VS Code Badge" />
+<img src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge" />
+<img src="https://img.shields.io/badge/render-%23000000?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" />
+<img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
+<img src="https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" />
+
+</p>
+
+## 💅 Styling & UI Tools
+<p>
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
+<img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
+<img src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS Badge" />
+<img src="https://img.shields.io/badge/postcss-%23DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS Badge" />
+<img src="https://img.shields.io/badge/meterialui-%23007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge" />
+<img src="https://img.shields.io/badge/daisyui-%231AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI Badge" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%23001E36?style=for-the-badge&logo=photopea&logoColor=white" alt="Adobe Photoshop Badge" />
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23F2CF63?style=for-the-badge&logoColor=white" alt="Adobe Illustrator Badge" />
+<img src="https://img.shields.io/badge/adobe%20xd-%23FFC0CB?style=for-the-badge&logoColor=white" alt="Adobe XD Badge" />
+
+</p>
+
+## ⚛️ JavaScript Frameworks & State Management
+<p>
+  <img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
+<img src="https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=react&logoColor=white" alt="Redux Badge" />
+<img src="https://img.shields.io/badge/nextdotjs-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
+<img src="https://img.shields.io/badge/context%20api-%232478CC?style=for-the-badge&logo=react&logoColor=white" alt="Context API Badge" />
+
+</p>
+
+## 📱 Responsive Design
+<p>
+  <img src="https://img.shields.io/badge/flex%20box-%23E34F26?style=for-the-badge&logoColor=white" alt="Flexbox Badge" />
+<img src="https://img.shields.io/badge/CSS%20Grid-%23663399?style=for-the-badge&logoColor=white" alt="CSS Grid Badge" />
+<img src="https://img.shields.io/badge/DevTools-%23E34F26?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools Badge" />
+
+</p>
 
 <h3>Languages & Frameworks:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h3>Tools & Platforms:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+## 🌐 Data & API Tools
+<p>
+  <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
+<img src="https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
+<img src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON Badge" />
+
+</p>
+
+## 📦 Backend Technologies
+<p>
+  <img src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+<img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" />
+<img src="https://img.shields.io/badge/jsonwebtokens-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge" />
+<img src="https://img.shields.io/badge/bcrypt-%233B66BC?style=for-the-badge&logo=bcrypt&logoColor=white" alt="Bcrypt Badge" />
+<img src="https://img.shields.io/badge/CORS-%23ECD53F?style=for-the-badge&logo=CORS&logoColor=white" alt="CORS Badge" />
+
+</p>
+
+
+## 🛠️ Database
+<p>
+  <img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+<img src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge" />
+<img src="https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose Badge" />
+
+</p>
+
+## 📦 Version Control & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+<img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkzahidhassandipu)](https://github.com/rkzahidhassandipu/github-readme-stats)
